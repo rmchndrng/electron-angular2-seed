@@ -1,4 +1,4 @@
-# Angular2Seed
+# Electron - Angular2 -  Typescript - Visual Studio Code - Seed
 Electron using Angular2 seed project which can be setup easily with Visual Studio Code
 
 Steps I had to follow to get this project up and running using Visual Studio Code
