@@ -17,16 +17,11 @@ https://code.visualstudio.com/
 http://www.typescriptlang.org/
 
 4. Cloned the Quickstart repository provided at Electron site
-# Clone the Quick Start repository
 $ git clone https://github.com/electron/electron-quick-start
 
 5. Added a simple angular application
     a. Updated the package.json
-        1. Added and modified the npm scripts
-        "scripts": {
-            "tsc:w": "tsc -w",
-            "start": "concurrent \"npm run tsc:w\" \"electron main.js\" "        
-        }
+        1. Added and modified the npm scripts        
         2. Added dependencies required for Angular2
         3. Added devDependencies required for Angular2
     b. Installed tsd
